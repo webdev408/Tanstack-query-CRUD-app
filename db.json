@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "8967bbcf-1b14-402e-bae9-499ecf0043ca",
+      "title": "Post title is React App",
+      "content": "Content one has introduction"
+    },
+    {
+      "id": "25ce5965-93f8-4c77-8123-af564ca365c0",
+      "title": "Post title is React Query",
+      "content": "Content two has details"
+    },
+    {
+      "id": "18ff63a7-69e8-4115-a586-5430342dad39",
+      "title": "Post  title is React Toolkit",
+      "content": "Content three has conclusion"
+    },
+    {
+      "id": "c3e1119b-33a3-4cd7-99e7-532d2406481b",
+      "title": "React Toolkit Query",
+      "content": "This query allows to carry out all the Rest Api functionalities."
+    },
+    {
+      "id": "d4265cbf-325c-44eb-a0dc-2ca71db3ed26",
+      "title": "Tanstack Query aka React Query",
+      "content": "Typescript is the natural fit for Tanstack query which is so powerful."
+    },
+    {
+      "id": "a807af99-717c-43ec-98de-e92509ac5726",
+      "title": "React is comprehensive",
+      "content": "In addition to having SPA react has large ecosystem. Next.Js is based on react.Js"
+    }
+  ]
+}
